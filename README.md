@@ -9,6 +9,13 @@
 - [소설 번역](/novel)
 - [트위터 계정 @denonbu_ko](https://twitter.com/denonbu_ko)
 
+## 원문 링크
+- [공식 홈페이지](https://denonbu.jp)
+- [캐릭터 소개 번역](https://denonbu.jp/character) ([시즌 1](https://season1.denonbu.jp/character/))
+- [네컷만화 원문](https://denonbu.jp/comic)
+- [소설 원문](https://book.asobistore.jp/)
+- [공식 트위터 계정 @denonbu](https://twitter.com/denonbu)
+
 ## 피드백
 번역물에 미숙하거나 부족한 점이나 오타가 있을 수 있습니다. 관련한 내용에 대한 피드백이나 참여 의사가 있으시다면 트위터 계정이나 hey.gclef@지메일로 알려주시면 감사드립니다.
 
